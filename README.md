@@ -44,22 +44,6 @@ Email Me 👉 ✉️ **krish.jain.civ24@itbhu.ac.in** For Collaboration/Project 
 
 </div>
 
----
-
-## 🧩 GitHub Contributions Grade  
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KA-rg&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KA-rg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KA_rg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KA-rg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </details>
 
 ---
