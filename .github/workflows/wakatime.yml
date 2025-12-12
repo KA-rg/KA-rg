@@ -1,0 +1,22 @@
+name: Update WakaTime Readme
+
+# Runs daily at 00:00 UTC (adjust cron if you want)
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # allows manual triggering from Actions tab
+
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate WakaTime README section
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          README_PATH: README.md
+          MARKER_START: "<!--START_SECTION:waka-->"
+          MARKER_END: "<!--END_SECTION:waka-->"
