@@ -9,6 +9,10 @@ Email Me 👉 ✉️ **krish.jain.civ24@itbhu.ac.in** For Collaboration/Project 
 -🤖 Exploring Machine Learning & AI  
 -🎨 UI/UX enthusiast  
 
+## Competitive Programming Profiles
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/krizoo)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/w5u68THWTb/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krizoo15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krizoo15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-jain-2609jain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krish.jain.civ24@itbhu.ac.in) 
