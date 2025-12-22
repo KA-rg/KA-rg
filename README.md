@@ -16,6 +16,23 @@ Email Me 👉 ✉️ **krish.jain.civ24@itbhu.ac.in** For Collaboration/Project 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krizoo15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krizoo15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-jain-2609jain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krish.jain.civ24@itbhu.ac.in) 
 
+## 📜 Certifications
+
+- **Full Stack Web Development** – Apna College  
+  [![Certificate](https://img.shields.io/badge/View-Certificate-blue)]((https://drive.google.com/file/d/1Uk5zmjKCQRrsyH3qxW6Wm7LgaqmjoHxp/view?usp=drive_link))
+
+- **Data Structures & Algorithms (DSA)** – Apna College  
+  [![Certificate](https://img.shields.io/badge/View-Certificate-blue)](https://drive.google.com/file/d/1YQ5-zqf3RpS4CJwK_BG6S4GBUWngVXNe/view?usp=drive_link)
+
+- **MLOps Certification**  
+  [![Certificate](https://img.shields.io/badge/View-Certificate-blue)](https://drive.google.com/file/d/1GhHavfwwktwP4jc0MJH9Oh_M5aXYNLQ7/view?usp=drive_link)
+
+- **Prod-A-Thon(Hackathon / Product-A-Thon)**  
+  [![Certificate](https://img.shields.io/badge/View-Certificate-blue)](https://drive.google.com/file/d/1i42OH86KK2eFFsSv7KV2iyin1b82bFUb/view?usp=drive_link)
+
+- **All Achievements**  
+  [![Certificate](https://img.shields.io/badge/View-Certificate-blue)](https://drive.google.com/drive/folders/1azOwyZcJRVxg9ILdD6mzQu1ppjxMKkdO?usp=drive_link)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
