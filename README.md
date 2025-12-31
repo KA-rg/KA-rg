@@ -50,6 +50,7 @@ Email Me 👉 ✉️ **krish.jain.civ24@itbhu.ac.in** For Collaboration/Project 
 <div align="center">
 
 ### ⭐ KA-rg's GitHub Stats  
+
 <img src="https://github-readme-stats.vercel.app/api?username=KA-rg&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
 ### 🔥 Most Used Languages  
