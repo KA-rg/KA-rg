@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **krish.jain.civ24@itbhu.ac.in** For Collaboration/Project 
 🚀 About Me  
 -🔥 MERN Stack Developer  
 -💬 Love working on real-time chat apps & backend systems  
--🤖 Exploring Machine Learning & AI  
+-🤖 Exploring Machine Learning & AI 
 
 ## Competitive Programming Profiles
 
